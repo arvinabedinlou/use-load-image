@@ -3,8 +3,8 @@ import { useEffect, DependencyList, EffectCallback } from "react";
 export const useLoadImage = (
   effect: EffectCallback,
   pictures: any[],
-  deps?: DependencyList,
-  length?: number
+  length?: number,
+  deps?: DependencyList
 ) => {
   useEffect(() => {
     const loadImage = (image: any) => {
