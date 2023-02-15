@@ -19,10 +19,11 @@ Install via **yarn**
 
 ```shell
 yarn add use-load-image
-You sould use this pattern:
 ```
 
 # Usage
+
+You can use the following pattern:
 
 #### React
 
