@@ -4,7 +4,7 @@
 
 A custom hook you can use to understand is a list of image are loaded in a page or not.
 
-#### When you van use
+#### When you can use
 
 There are some cases that you want not to let user see pictures loading or block some actions during loading a picture or list of pictures. This Hook was
 made on top of useEffect and lets you do any action you want during loading process or start any action after the loading was finished.
