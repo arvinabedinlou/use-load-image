@@ -1,6 +1,6 @@
 {
   "name": "use-load-image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A react hook which you can use to understand is a list of pictures are loaded or not ",
   "main": "use-load-image.tsx",
   "scripts": {
